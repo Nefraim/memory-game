@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Planet Memory Game
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Created as an exercise.
 
 ## Available Scripts
 
